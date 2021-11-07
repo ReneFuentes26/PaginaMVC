@@ -15659,6 +15659,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\SilenSent21\\PaginaMVC\\Views\\Guardar\\Archivo.cshtml",
+      "TargetPath": "Views\\Guardar\\Archivo.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\SilenSent21\\PaginaMVC\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
